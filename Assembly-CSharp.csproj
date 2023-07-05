@@ -56,12 +56,12 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Container\Conteiner\ContainerServices.cs" />
     <Compile Include="Assets\Container\Conteiner\SceneContext.cs" />
-    <Compile Include="Assets\Container\TestGameObject.cs" />
     <Compile Include="Assets\Container\Conteiner\Context.cs" />
-    <Compile Include="Assets\Container\Conteiner\InjectAttribute.cs" />
     <Compile Include="Assets\Container\TestService.cs" />
+    <Compile Include="Assets\Container\TestGameObject.cs" />
+    <Compile Include="Assets\Container\Conteiner\InjectAttribute.cs" />
+    <Compile Include="Assets\Container\Conteiner\ContainerServices.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

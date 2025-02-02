@@ -1,5 +1,6 @@
 # Yurject
-Простой di container
+https://github.com/Yury93/DiContainer/tree/master - новая версия
+Простой di container(устаревшая версия)
 Закидываем на объект скрипт "SceneContext" и драг - дропаем в лист тот сервис - монобех, который собираемся внедрять.
 ![Скриншот 05-07-2023 181602](https://github.com/Yury93/Yurject/assets/72685333/0c2c6129-744e-4921-93a8-6348ad8f89bf)
 
